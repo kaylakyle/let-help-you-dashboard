@@ -81,7 +81,7 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 ```
 
-## 🌗 Dark Mode
+##  Dark Mode
 
 The template includes dark mode support through Tailwind's `dark:` classes and CSS custom properties.
 
