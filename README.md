@@ -59,7 +59,7 @@ src/
 └── main.tsx             # Application entry point
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Adding New shadcn/ui Components
 
