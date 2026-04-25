@@ -21,7 +21,7 @@ A modern React starter template built with Vite, TypeScript, Tailwind CSS, and s
 - Dialog
 - And more...
 
-## 🛠️ Getting Started
+##  Getting Started
 
 1. **Install dependencies**
 
