@@ -93,7 +93,7 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Radix UI](https://www.radix-ui.com/)
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to submit issues and enhancement requests!
 
