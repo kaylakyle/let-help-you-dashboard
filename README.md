@@ -46,7 +46,7 @@ A modern React starter template built with Vite, TypeScript, Tailwind CSS, and s
    npm run preview
    ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
